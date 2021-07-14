@@ -1,2 +1,2 @@
 # excel-for-data-analysis<br>
-Practice challenges and solutions
+Quick reference, practice challenges and solutions
