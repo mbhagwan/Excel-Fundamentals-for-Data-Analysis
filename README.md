@@ -1,7 +1,7 @@
-**Course:** Excel Fundamentals for Data Analysis<br>
+**Course 1:** Excel Fundamentals for Data Analysis<br>
 Coursera | Macquarie University<br>
 Excel version: Microsoft Excel 2019 (Office 365)<br>
-**Contents of this repository:** Quick reference guides, practice challenges and solutions<br><br>
+
 Course contents:
 Week | Content
 :----|:-------
