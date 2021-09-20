@@ -1,9 +1,11 @@
+# Excel Skills for Data Analytics and Visualization Specialization
+
 **Course 1:** Excel Fundamentals for Data Analysis<br>
 Coursera | Macquarie University<br>
 
-**Course contents:**
+**Course syllabus:**
 
-Week | Content
+Week | Syllabus
 :----|:-------
 1 | Cleaning and manipulating text
 2 | Working with numbers and dates
