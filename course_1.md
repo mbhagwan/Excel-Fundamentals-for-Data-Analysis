@@ -1,4 +1,9 @@
-[Week 1 Practice Challenge](https://1drv.ms/x/s!ADU6_8hHCMjkghU)
+<hr>
+<details>
+<summary>Weekly Practice Challenges</summary>
+  <a href="https://1drv.ms/x/s!ADU6_8hHCMjkghU">Week 1</a>
+</details>
+<hr>
 
 # Excel Skills for Data Analytics and Visualization Specialization
 
