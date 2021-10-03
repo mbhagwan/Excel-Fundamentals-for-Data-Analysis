@@ -1,11 +1,11 @@
 <hr>
 <details>
 <summary>Weekly Practice Challenges</summary>
-  <li><a href="https://1drv.ms/x/s!ADU6_8hHCMjkghU">Week 1</a></li>
-  <li><a href="https://1drv.ms/x/s!ADU6_8hHCMjkghU">Week 2</a></li>
-  <li><a href="https://1drv.ms/x/s!ADU6_8hHCMjkghU">Week 3</a></li>
-  <li><a href="https://1drv.ms/x/s!ADU6_8hHCMjkghU">Week 4</a></li>
-  <li><a href="https://1drv.ms/x/s!ADU6_8hHCMjkghU">Week 5</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghWjIfuP2damNHUc?e=KHhnAZ">Week 1</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghc41zGdy4Fl9WV_?e=frlxa9">Week 2</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghlOA41m6W_i6N9s?e=TQZVRf">Week 3</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkghsjaY8c9PhyuaOe?e=HHcbP5">Week 4</a></li>
+  <li><a href="https://1drv.ms/x/s!AjU6_8hHCMjkgh23Hg-QqBIaNurq?e=IfeVP8">Week 5</a></li>
 </details>
 <hr>
 
