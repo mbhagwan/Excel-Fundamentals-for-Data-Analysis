@@ -1,4 +1,4 @@
-[Week 1 Practice Challenge](https://github.com/mbhagwan/Excel-Fundamentals-for-Data-Analysis/blob/main/C1_Week_1_Practice_Challenge.xlsx)
+[Week 1 Practice Challenge](https://1drv.ms/x/s!ADU6_8hHCMjkghU)
 
 # Excel Skills for Data Analytics and Visualization Specialization
 
